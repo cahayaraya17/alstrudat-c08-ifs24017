@@ -37,4 +37,4 @@ COUNT
 
 Output:
 FOUND: Apel = 50
-1
+1    
