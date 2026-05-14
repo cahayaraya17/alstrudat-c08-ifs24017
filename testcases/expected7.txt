@@ -1,0 +1,6 @@
+Roti=15
+Mentega=10
+Keju=25
+Roti=15
+Mentega=10
+2

@@ -1,0 +1,2 @@
+NOT FOUND: Kopi
+FOUND: Teh = 40

@@ -1,0 +1,6 @@
+5
+INSERT Kopi 20
+INSERT Teh 40
+DELETE Kopi
+SEARCH Kopi
+SEARCH Teh

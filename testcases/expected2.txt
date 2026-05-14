@@ -1,6 +1,2 @@
-Jeruk=30
-Apel=50
-Mangga=20
-Apel=50
-Mangga=20
-2
+FOUND: Beras = 100
+FOUND: Gula = 75

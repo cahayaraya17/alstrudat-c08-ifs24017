@@ -1,0 +1,4 @@
+3
+INSERT Minyak 30
+SEARCH Tepung
+COUNT

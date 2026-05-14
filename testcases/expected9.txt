@@ -1,0 +1,4 @@
+Nasi=500
+Bakso=250
+2
+FOUND: Nasi = 500
