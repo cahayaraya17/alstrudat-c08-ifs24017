@@ -1,0 +1,4 @@
+3
+INSERT Apel 50
+SEARCH Apel
+COUNT
